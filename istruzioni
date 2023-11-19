@@ -1,0 +1,8 @@
+aprire entrambi i file, lato client e lato server 
+avviare il server 
+avviare il client 
+immettere la password corretta entro tre tentivi
+sennò rifare la procedura fino a questo punto 
+poi scegliere da quale tabella prendere le informazioni
+visualizzare l output 
+la connessione verrà chiusa in automatico
